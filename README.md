@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🌱 Skills
-  * Languages: `Python`, `JavaScript`, `Dart`,
+  * Languages: `Python`, `JavaScript`,`Java`, `Dart`
   * Web Development: `HTML5`, `CSS3`, `Bootstrap`,
   * Machine Learning: `TensorFlow`, `Keras`, `scikit-learn`
   * Databases: `MySQL`, `PostgresSQL`, `Pinecone`
